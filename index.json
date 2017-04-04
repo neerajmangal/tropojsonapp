@@ -1,0 +1,17 @@
+{"tropo":[
+     {
+        "call":{
+           "to":[
+              "+15127178445"
+           ]
+        }
+     },
+     {
+        "say":[
+           {
+              "value":"Remember, you have a meeting at 2 PM"
+           }
+        ]
+     }
+  ]
+}
